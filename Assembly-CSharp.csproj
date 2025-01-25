@@ -61,8 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\Stick.cs" />
+    <Compile Include="Assets\Scripts\Stone.cs" />
     <Compile Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
     <Compile Include="Assets\Scripts\SpawnerStone.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Generic.cs" />
     <Compile Include="Assets\Scripts\LevelController.cs" />
   </ItemGroup>
